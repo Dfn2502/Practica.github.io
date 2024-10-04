@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+.cuadro1{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+}
+.cuadro2{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    transition: 0.5s;
+}
+.cuadro3{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    transition: 0.5s;
+}
+.cuadro1-2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 8, 255);
+}
+.cuadro2-2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 128, 13);
+    transition: 0.5s;
+}
+.cuadro3-2{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-color: rgb(75, 157, 204);
+    transition: 0.5s;
+}
