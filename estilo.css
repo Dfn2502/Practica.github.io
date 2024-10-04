@@ -6,6 +6,7 @@
     width: 150px;
     height: 150px;
     background-color: orange;
+    transition: 0.5s;
 }
 .cuadro2{
     width: 150px;
@@ -17,6 +18,12 @@
     width: 150px;
     height: 150px;
     background-color: green;
+    transition: 0.5s;
+}
+.cuadro1-2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(64, 0, 255);
     transition: 0.5s;
 }
 .cuadro2-2{
